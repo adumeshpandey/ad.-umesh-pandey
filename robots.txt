@@ -2,5 +2,4 @@
 User-agent: *
 Allow: /
 
-# After the live domain is known, add this line with the real domain:
-# Sitemap: https://YOUR-LIVE-DOMAIN.example/sitemap.xml
+Sitemap: https://ad-umesh-pandey.vercel.app/sitemap.xml
