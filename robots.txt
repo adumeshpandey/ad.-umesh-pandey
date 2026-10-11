@@ -1,0 +1,6 @@
+# Keep this file at the live website's root folder.
+User-agent: *
+Allow: /
+
+# After the live domain is known, add this line with the real domain:
+# Sitemap: https://YOUR-LIVE-DOMAIN.example/sitemap.xml
